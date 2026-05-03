@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Architect: Echoes of the Void",
+  "description": "A classic first-person grid-based dungeon crawler and level editor inspired by Eye of the Beholder, built with PhaserJS and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
